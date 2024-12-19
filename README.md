@@ -1,4 +1,6 @@
 ## Hi there 👋
+## 🔭 I’m currently working on a typing bot
+## ⚡ Fun fact: I'm struggling with programming!
 
 <!--
 **Max-M-B/Max-M-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
